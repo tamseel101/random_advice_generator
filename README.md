@@ -1,6 +1,6 @@
 # Random Advice Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website: [Random Advice Generator](https://thunderous-arithmetic-2a6674.netlify.app).
 
 ## Available Scripts
 
